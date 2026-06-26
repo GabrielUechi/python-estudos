@@ -5,3 +5,6 @@ def function():
     return c
 
 print(function())
+
+def subtrair(a, b):
+    return a - b
