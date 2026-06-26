@@ -8,3 +8,5 @@ print(function())
 
 def subtrair(a, b):
     return a - b
+def somar(a, b):
+    return a + b
